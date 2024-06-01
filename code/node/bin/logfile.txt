@@ -1,0 +1,28 @@
+2024/03/03 17:14:52 Decoded Configuration:
+2024/03/03 17:14:52 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:14:52 Decoded Configuration:
+2024/03/03 17:14:52 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:14:52 Server listening on port 8001
+2024/03/03 17:14:52 register 127.0.0.1 8001
+2024/03/03 17:14:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:14:55 state
+2024/03/03 17:14:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:14:58 unregister 127.0.0.1:8001
+2024/03/03 17:14:58 
+ Connecting to: 127.0.0.1:8000 

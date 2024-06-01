@@ -1,0 +1,190 @@
+2024/03/25 22:13:39 Decoded Configuration:
+2024/03/25 22:13:39 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:13:39 Decoded Configuration:
+2024/03/25 22:13:39 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:13:39 Server listening on port 8081
+2024/03/25 22:13:39 register 127.0.0.1 8081
+2024/03/25 22:13:39 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:13:39 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/25 22:13:39 add 127.0.0.1:8081 shared_dir/pepe.txt 20534
+2024/03/25 22:13:39 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:13:39 File added: shared_dir/pepe3.txt (Size: 20534 bytes)
+2024/03/25 22:13:39 add 127.0.0.1:8081 shared_dir/pepe3.txt 20534
+2024/03/25 22:13:39 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:13:42 state
+2024/03/25 22:13:42 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:13:52 unregister 127.0.0.1:8081
+2024/03/25 22:13:52 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:38 Decoded Configuration:
+2024/03/25 22:25:38 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:25:38 Decoded Configuration:
+2024/03/25 22:25:38 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:25:38 Server listening on port 8081
+2024/03/25 22:25:38 register 127.0.0.1 8081
+2024/03/25 22:25:38 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:38 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/25 22:25:38 add 127.0.0.1:8081 shared_dir/pepe.txt 20534
+2024/03/25 22:25:38 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:38 File added: shared_dir/pepe3.txt (Size: 20534 bytes)
+2024/03/25 22:25:38 add 127.0.0.1:8081 shared_dir/pepe3.txt 20534
+2024/03/25 22:25:38 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:43 state
+2024/03/25 22:25:43 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:58 query 127.0.0.1:8081:0 127.0.0.1:8081 10 shared_dir/pepe.txt
+2024/03/25 22:25:58 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:25:58 Client connected: 127.0.0.1:50174
+2024/03/25 22:25:58 Got a query hit: ID=127.0.0.1:8081:0 RESPONSE:127.0.0.1:8001|127.0.0.1:8081|
+2024/03/25 22:25:58 Bytes: 2 Client: 127.0.0.1:50174 Transfer_Time: 21.194µs 
+2024/03/25 22:26:00 md5 pepe.txt
+2024/03/25 22:26:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:26:00 download pepe.txt
+2024/03/25 22:26:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:26:00 : sum: a2bdc406824840340a5050fc4dbd95ef sum_real: a2bdc406824840340a5050fc4dbd95ef
+2024/03/25 22:26:00 Downloaded pepe.txt in 2.09 seconds.
+2024/03/25 22:26:00 
+Summary series:
+2024/03/25 22:26:00 Downloaded Files: shared_dir/pepe.txt
+2024/03/25 22:26:00 Total Download Time: 2.09 seconds
+2024/03/25 22:26:14 state
+2024/03/25 22:26:14 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:26:35 File deleted: shared_dir/pepe3.txt (Size: 20534 bytes)
+2024/03/25 22:26:35 rm 127.0.0.1:8081 shared_dir/pepe3.txt
+2024/03/25 22:26:35 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:26:39 state
+2024/03/25 22:26:39 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:26:48 query 127.0.0.1:8081:1 127.0.0.1:8081 10 shared_dir/pepe3.txt
+2024/03/25 22:26:48 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:26:48 Client connected: 127.0.0.1:46040
+2024/03/25 22:26:48 Got a query hit: ID=127.0.0.1:8081:1 RESPONSE:127.0.0.1:8001|
+2024/03/25 22:26:48 Bytes: 2 Client: 127.0.0.1:46040 Transfer_Time: 64.339µs 
+2024/03/25 22:26:50 md5 pepe3.txt
+2024/03/25 22:26:50 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:26:50 download pepe3.txt
+2024/03/25 22:26:50 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:26:50 : sum: a2bdc406824840340a5050fc4dbd95ef sum_real: a2bdc406824840340a5050fc4dbd95ef
+2024/03/25 22:26:50 Downloaded pepe3.txt in 2.28 seconds.
+2024/03/25 22:26:50 
+Summary series:
+2024/03/25 22:26:50 Downloaded Files: shared_dir/pepe3.txt
+2024/03/25 22:26:50 Total Download Time: 2.28 seconds
+2024/03/25 22:26:50 File added: shared_dir/pepe3.txt (Size: 20534 bytes)
+2024/03/25 22:26:50 add 127.0.0.1:8081 shared_dir/pepe3.txt 20534
+2024/03/25 22:26:50 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:26:51 state
+2024/03/25 22:26:51 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:27:05 unregister 127.0.0.1:8081
+2024/03/25 22:27:05 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:29:57 Decoded Configuration:
+2024/03/25 22:29:57 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:29:57 Decoded Configuration:
+2024/03/25 22:29:57 {
+    "hostname": "127.0.0.1",
+    "port": 8081,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 22:29:57 Server listening on port 8081
+2024/03/25 22:29:57 register 127.0.0.1 8081
+2024/03/25 22:29:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:29:57 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/25 22:29:57 add 127.0.0.1:8081 shared_dir/pepe.txt 20534
+2024/03/25 22:29:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:29:59 state
+2024/03/25 22:29:59 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:30:25 query 127.0.0.1:8081:0 127.0.0.1:8081 10 shared_dir/pepe3.txt
+2024/03/25 22:30:25 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:30:25 Client connected: 127.0.0.1:54970
+2024/03/25 22:30:25 Got a query hit: ID=127.0.0.1:8081:0 RESPONSE:127.0.0.1:8001|
+2024/03/25 22:30:25 Bytes: 2 Client: 127.0.0.1:54970 Transfer_Time: 37.273µs 
+2024/03/25 22:30:28 md5 pepe3.txt
+2024/03/25 22:30:28 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:30:28 download pepe3.txt
+2024/03/25 22:30:28 
+ Connecting to: 127.0.0.1:8001 
+2024/03/25 22:30:28 : sum: a2bdc406824840340a5050fc4dbd95ef sum_real: a2bdc406824840340a5050fc4dbd95ef
+2024/03/25 22:30:28 Downloaded pepe3.txt in 2.84 seconds.
+2024/03/25 22:30:28 
+Summary series:
+2024/03/25 22:30:28 Downloaded Files: shared_dir/pepe3.txt
+2024/03/25 22:30:28 Total Download Time: 2.84 seconds
+2024/03/25 22:30:28 File added: shared_dir/pepe3.txt (Size: 20534 bytes)
+2024/03/25 22:30:28 add 127.0.0.1:8081 shared_dir/pepe3.txt 20534
+2024/03/25 22:30:28 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:30:37 state
+2024/03/25 22:30:37 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:30:43 File deleted: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/25 22:30:43 rm 127.0.0.1:8081 shared_dir/pepe.txt
+2024/03/25 22:30:43 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 22:30:47 state
+2024/03/25 22:30:47 
+ Connecting to: 127.0.0.1:9000 
+2024/03/26 13:12:33 Got interrupt signal. Aborting...
+2024/03/26 13:12:33 unregister 127.0.0.1:8081
+2024/03/26 13:12:33 
+ Connecting to: 127.0.0.1:9000 

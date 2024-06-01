@@ -1,0 +1,1646 @@
+2024/03/03 11:23:17 Client connected: 127.0.0.1:50302
+2024/03/03 11:23:17 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/03 11:23:17 Bytes: 32 Client: 127.0.0.1:50302 Transfer_Time: 628.1µs 
+2024/03/03 11:23:17 Client connected: 127.0.0.1:50318
+2024/03/03 11:23:17 Bytes: 32000 Client: 127.0.0.1:50318 Transfer_Time: 104.624µs Filename: 4.txt
+2024/03/03 11:35:12 Decoded Configuration:
+2024/03/03 11:35:12 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:35:12 Decoded Configuration:
+2024/03/03 11:35:12 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:35:12 Server listening on port 8001
+2024/03/03 11:35:13 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:35:13 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:35:13 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:35:19 Got interrupt signal. Aborting...
+2024/03/03 11:36:22 Decoded Configuration:
+2024/03/03 11:36:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:36:22 Decoded Configuration:
+2024/03/03 11:36:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:36:22 Server listening on port 8001
+2024/03/03 11:36:22 register 127.0.0.1 8001
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/4.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:22 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:36:22 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 11:36:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:24 state
+2024/03/03 11:36:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:56 query shared_dir/8.txt
+2024/03/03 11:36:56 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:36:56 md5 8.txt
+2024/03/03 11:36:56 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 11:36:56 Client connected: 127.0.0.1:34610
+2024/03/03 11:36:56 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/03 11:36:56 Bytes: 32 Client: 127.0.0.1:34610 Transfer_Time: 137.599µs 
+2024/03/03 11:36:56 download 8.txt
+2024/03/03 11:36:56 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 11:36:56 Client connected: 127.0.0.1:34616
+2024/03/03 11:36:56 Bytes: 32000 Client: 127.0.0.1:34616 Transfer_Time: 71.49µs Filename: 8.txt
+2024/03/03 11:37:05 unregister 127.0.0.1:8001
+2024/03/03 11:37:05 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 Decoded Configuration:
+2024/03/03 11:51:33 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:51:33 Decoded Configuration:
+2024/03/03 11:51:33 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:51:33 Server listening on port 8001
+2024/03/03 11:51:33 register 127.0.0.1 8001
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:51:33 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:51:33 add 127.0.0.1:8001 shared_dir/4.txt 32000
+2024/03/03 11:51:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:32 Got interrupt signal. Aborting...
+2024/03/03 11:53:32 unregister 127.0.0.1:8001
+2024/03/03 11:53:32 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 Decoded Configuration:
+2024/03/03 11:53:38 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:53:38 Decoded Configuration:
+2024/03/03 11:53:38 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:53:38 Server listening on port 8001
+2024/03/03 11:53:38 register 127.0.0.1 8001
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/4.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:53:38 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:53:38 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 11:53:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:21 Got interrupt signal. Aborting...
+2024/03/03 11:56:21 unregister 127.0.0.1:8001
+2024/03/03 11:56:21 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 Decoded Configuration:
+2024/03/03 11:56:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:56:23 Decoded Configuration:
+2024/03/03 11:56:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:56:23 Server listening on port 8001
+2024/03/03 11:56:23 register 127.0.0.1 8001
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/4.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:23 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:56:23 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 11:56:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:27 Got interrupt signal. Aborting...
+2024/03/03 11:56:27 unregister 127.0.0.1:8001
+2024/03/03 11:56:27 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:33 Decoded Configuration:
+2024/03/03 11:56:33 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:56:33 Decoded Configuration:
+2024/03/03 11:56:33 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 11:56:33 Server listening on port 8001
+2024/03/03 11:56:33 register 127.0.0.1 8001
+2024/03/03 11:56:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/4.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:34 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 11:56:34 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 11:56:34 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 11:56:49 File deleted: shared_dir/4.txt (Size: 32000 bytes)
+2024/03/03 11:56:49 rm 127.0.0.1:8001 shared_dir/4.txt
+2024/03/03 11:56:49 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:17 Got interrupt signal. Aborting...
+2024/03/03 12:00:17 unregister 127.0.0.1:8001
+2024/03/03 12:00:17 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 Decoded Configuration:
+2024/03/03 12:00:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 12:00:23 Decoded Configuration:
+2024/03/03 12:00:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 12:00:23 Server listening on port 8001
+2024/03/03 12:00:23 register 127.0.0.1 8001
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:00:23 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 12:00:23 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 12:00:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:03:53 state
+2024/03/03 12:03:53 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:04:07 query shared_dir/1.txt
+2024/03/03 12:04:08 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:04:08 md5 1.txt
+2024/03/03 12:04:08 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 12:04:08 Client connected: 127.0.0.1:39310
+2024/03/03 12:04:08 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/03 12:04:08 Bytes: 32 Client: 127.0.0.1:39310 Transfer_Time: 121.822µs 
+2024/03/03 12:04:08 download 1.txt
+2024/03/03 12:04:08 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 12:04:08 Client connected: 127.0.0.1:39322
+2024/03/03 12:04:08 Bytes: 32000 Client: 127.0.0.1:39322 Transfer_Time: 97.176µs Filename: 1.txt
+2024/03/03 12:04:28 unregister 127.0.0.1:8001
+2024/03/03 12:04:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 Decoded Configuration:
+2024/03/03 12:05:35 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 12:05:35 Decoded Configuration:
+2024/03/03 12:05:35 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 12:05:35 Server listening on port 8001
+2024/03/03 12:05:35 register 127.0.0.1 8001
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:35 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/03 12:05:35 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/03 12:05:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:38 state
+2024/03/03 12:05:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:49 query shared_dir/8.txt
+2024/03/03 12:05:49 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 12:05:50 md5 8.txt
+2024/03/03 12:05:50 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 12:05:50 Client connected: 127.0.0.1:41948
+2024/03/03 12:05:50 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/03 12:05:50 Bytes: 32 Client: 127.0.0.1:41948 Transfer_Time: 92.557µs 
+2024/03/03 12:05:50 download 8.txt
+2024/03/03 12:05:50 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 12:05:50 Client connected: 127.0.0.1:41958
+2024/03/03 12:05:50 Bytes: 32000 Client: 127.0.0.1:41958 Transfer_Time: 99.676µs Filename: 8.txt
+2024/03/03 12:05:50 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 12:05:50 Downloaded 8.txt in 0.36 seconds.
+2024/03/03 12:05:50 
+Summary series:
+2024/03/03 12:05:50 Downloaded Files: shared_dir/8.txt
+2024/03/03 12:05:50 Total Download Time: 0.36 seconds
+2024/03/03 12:06:24 unregister 127.0.0.1:8001
+2024/03/03 12:06:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 Decoded Configuration:
+2024/03/18 11:59:51 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 11:59:51 Decoded Configuration:
+2024/03/18 11:59:51 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 11:59:51 Server listening on port 8001
+2024/03/18 11:59:51 register 127.0.0.1 8001
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:51 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 11:59:51 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 11:59:51 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 11:59:53 state
+2024/03/18 11:59:53 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:00:12 query 0 0 shared_dir/2.txt
+2024/03/18 12:00:12 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:00:12 md5 2.txt
+2024/03/18 12:00:12 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 12:00:12 Client connected: 127.0.0.1:36368
+2024/03/18 12:00:12 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 12:00:12 Bytes: 32 Client: 127.0.0.1:36368 Transfer_Time: 88.425µs 
+2024/03/18 12:00:12 download 2.txt
+2024/03/18 12:00:12 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 12:00:12 Client connected: 127.0.0.1:36380
+2024/03/18 12:00:12 Bytes: 32000 Client: 127.0.0.1:36380 Transfer_Time: 94.213µs Filename: 2.txt
+2024/03/18 12:00:12 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 12:00:12 Downloaded 2.txt in 0.01 seconds.
+2024/03/18 12:00:12 
+Summary series:
+2024/03/18 12:00:12 Downloaded Files: shared_dir/2.txt
+2024/03/18 12:00:12 Total Download Time: 0.01 seconds
+2024/03/18 12:00:35 unregister 127.0.0.1:8001
+2024/03/18 12:00:35 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 Decoded Configuration:
+2024/03/18 12:50:14 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 12:50:14 Decoded Configuration:
+2024/03/18 12:50:14 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 12:50:14 Server listening on port 8001
+2024/03/18 12:50:14 register 127.0.0.1 8001
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:14 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 12:50:14 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 12:50:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:16 state
+2024/03/18 12:50:16 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:26 query 0 0 shared_dir/test.txt
+2024/03/18 12:50:26 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 12:50:35 md5 test.txt
+2024/03/18 12:50:35 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 12:50:35 Client connected: 127.0.0.1:47512
+2024/03/18 12:50:35 Calculado el hash: 3162646439393863366462303338653335313038363736373232613861393630
+2024/03/18 12:50:35 Bytes: 32 Client: 127.0.0.1:47512 Transfer_Time: 97.117µs 
+2024/03/18 12:50:35 download test.txt
+2024/03/18 12:50:35 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 12:50:35 Client connected: 127.0.0.1:47520
+2024/03/18 12:50:35 Bytes: 7 Client: 127.0.0.1:47520 Transfer_Time: 114.251µs Filename: test.txt
+2024/03/18 12:50:35 : sum: 1bdd998c6db038e35108676722a8a960 sum_real: 1bdd998c6db038e35108676722a8a960
+2024/03/18 12:50:35 Downloaded test.txt in 9.93 seconds.
+2024/03/18 12:50:35 
+Summary series:
+2024/03/18 12:50:35 Downloaded Files: shared_dir/test.txt
+2024/03/18 12:50:35 Total Download Time: 9.93 seconds
+2024/03/18 12:50:56 unregister 127.0.0.1:8001
+2024/03/18 12:50:56 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 Decoded Configuration:
+2024/03/18 13:07:20 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:07:20 Decoded Configuration:
+2024/03/18 13:07:20 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:07:20 Server listening on port 8001
+2024/03/18 13:07:20 register 127.0.0.1 8001
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:20 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:07:20 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:07:20 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:22 state
+2024/03/18 13:07:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:30 query 0 0 shared_dir/3.txt
+2024/03/18 13:07:30 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:07:30 md5 3.txt
+2024/03/18 13:07:30 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:07:30 Client connected: 127.0.0.1:56054
+2024/03/18 13:07:30 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:07:30 Bytes: 32 Client: 127.0.0.1:56054 Transfer_Time: 73.02µs 
+2024/03/18 13:07:30 download 3.txt
+2024/03/18 13:07:30 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:07:30 Client connected: 127.0.0.1:56062
+2024/03/18 13:07:30 Bytes: 32000 Client: 127.0.0.1:56062 Transfer_Time: 101.879µs Filename: 3.txt
+2024/03/18 13:07:30 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:07:30 Downloaded 3.txt in 0.01 seconds.
+2024/03/18 13:07:30 
+Summary series:
+2024/03/18 13:07:30 Downloaded Files: shared_dir/3.txt
+2024/03/18 13:07:30 Total Download Time: 0.01 seconds
+2024/03/18 13:07:43 query 0 0 shared_dir/3.txt
+2024/03/18 13:07:43 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 Decoded Configuration:
+2024/03/18 13:08:28 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:08:28 Decoded Configuration:
+2024/03/18 13:08:28 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:08:28 Server listening on port 8001
+2024/03/18 13:08:28 register 127.0.0.1 8001
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:28 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:08:28 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:08:28 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:30 state
+2024/03/18 13:08:30 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:08:44 query 0 0 shared_dir/3.txt
+2024/03/18 13:08:44 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 Decoded Configuration:
+2024/03/18 13:10:45 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:10:45 Decoded Configuration:
+2024/03/18 13:10:45 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:10:45 Server listening on port 8001
+2024/03/18 13:10:45 register 127.0.0.1 8001
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:45 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:10:45 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:10:45 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:46 state
+2024/03/18 13:10:46 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:10:55 query 0 0 shared_dir/10.txt
+2024/03/18 13:10:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:02 md5 10.txt
+2024/03/18 13:11:02 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:11:02 Client connected: 127.0.0.1:42960
+2024/03/18 13:11:02 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:11:02 Bytes: 32 Client: 127.0.0.1:42960 Transfer_Time: 85.63µs 
+2024/03/18 13:11:02 download 10.txt
+2024/03/18 13:11:02 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:11:02 Client connected: 127.0.0.1:42976
+2024/03/18 13:11:02 Bytes: 32000 Client: 127.0.0.1:42976 Transfer_Time: 111.897µs Filename: 10.txt
+2024/03/18 13:11:02 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:11:02 Downloaded 10.txt in 7.60 seconds.
+2024/03/18 13:11:02 
+Summary series:
+2024/03/18 13:11:02 Downloaded Files: shared_dir/10.txt
+2024/03/18 13:11:02 Total Download Time: 7.60 seconds
+2024/03/18 13:11:15 unregister 127.0.0.1:8001
+2024/03/18 13:11:15 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 Decoded Configuration:
+2024/03/18 13:11:42 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:11:42 Decoded Configuration:
+2024/03/18 13:11:42 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:11:42 Server listening on port 8001
+2024/03/18 13:11:42 register 127.0.0.1 8001
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:11:42 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:11:42 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:11:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:12:19 query 0 0 shared_dir/1.txt
+2024/03/18 13:12:19 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:12:19 md5 1.txt
+2024/03/18 13:12:19 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:12:19 Client connected: 127.0.0.1:49840
+2024/03/18 13:12:19 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:12:19 Bytes: 32 Client: 127.0.0.1:49840 Transfer_Time: 123.798µs 
+2024/03/18 13:12:19 download 1.txt
+2024/03/18 13:12:19 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:12:19 Client connected: 127.0.0.1:49848
+2024/03/18 13:12:19 Bytes: 32000 Client: 127.0.0.1:49848 Transfer_Time: 102.447µs Filename: 1.txt
+2024/03/18 13:12:19 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:12:19 Downloaded 1.txt in 0.01 seconds.
+2024/03/18 13:12:19 
+Summary series:
+2024/03/18 13:12:19 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:12:19 Total Download Time: 0.01 seconds
+2024/03/18 13:12:29 query 0 0 shared_dir/1.txt
+2024/03/18 13:12:29 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:12:36 md5 1.txt
+2024/03/18 13:12:36 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:12:36 Client connected: 127.0.0.1:59696
+2024/03/18 13:12:36 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:12:36 Bytes: 32 Client: 127.0.0.1:59696 Transfer_Time: 114.907µs 
+2024/03/18 13:12:36 download 1.txt
+2024/03/18 13:12:36 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:12:36 Client connected: 127.0.0.1:59702
+2024/03/18 13:12:36 Bytes: 32000 Client: 127.0.0.1:59702 Transfer_Time: 86.17µs Filename: 1.txt
+2024/03/18 13:12:36 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:12:36 Downloaded 1.txt in 6.97 seconds.
+2024/03/18 13:12:36 
+Summary series:
+2024/03/18 13:12:36 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:12:36 Total Download Time: 6.97 seconds
+2024/03/18 13:15:01 state
+2024/03/18 13:15:01 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:03 state
+2024/03/18 13:15:03 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:05 unregister 127.0.0.1:8001
+2024/03/18 13:15:05 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 Decoded Configuration:
+2024/03/18 13:15:06 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:15:06 Decoded Configuration:
+2024/03/18 13:15:06 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:15:06 Server listening on port 8001
+2024/03/18 13:15:06 register 127.0.0.1 8001
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:06 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:15:06 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:15:06 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:08 state
+2024/03/18 13:15:08 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:15 unregister 127.0.0.1:8001
+2024/03/18 13:15:15 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 Decoded Configuration:
+2024/03/18 13:15:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:15:22 Decoded Configuration:
+2024/03/18 13:15:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:15:22 Server listening on port 8001
+2024/03/18 13:15:22 register 127.0.0.1 8001
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:22 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:15:22 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:15:22 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:23 state
+2024/03/18 13:15:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:31 query 0 0 shared_dir/1.txt
+2024/03/18 13:15:31 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:15:31 md5 1.txt
+2024/03/18 13:15:31 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:15:31 Client connected: 127.0.0.1:34518
+2024/03/18 13:15:31 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:15:31 Bytes: 32 Client: 127.0.0.1:34518 Transfer_Time: 93.002µs 
+2024/03/18 13:15:31 download 1.txt
+2024/03/18 13:15:31 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:15:31 Client connected: 127.0.0.1:34526
+2024/03/18 13:15:31 Bytes: 32000 Client: 127.0.0.1:34526 Transfer_Time: 100.705µs Filename: 1.txt
+2024/03/18 13:15:31 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:15:31 Downloaded 1.txt in 0.01 seconds.
+2024/03/18 13:15:31 
+Summary series:
+2024/03/18 13:15:31 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:15:31 Total Download Time: 0.01 seconds
+2024/03/18 13:15:33 unregister 127.0.0.1:8001
+2024/03/18 13:15:33 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 Decoded Configuration:
+2024/03/18 13:16:13 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:16:13 Decoded Configuration:
+2024/03/18 13:16:13 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:16:13 Server listening on port 8001
+2024/03/18 13:16:13 register 127.0.0.1 8001
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:13 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:16:13 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:16:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:24 query 0 0 shared_dir/1.txt
+2024/03/18 13:16:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:16:24 md5 1.txt
+2024/03/18 13:16:24 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:16:24 Client connected: 127.0.0.1:56628
+2024/03/18 13:16:24 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:16:24 Bytes: 32 Client: 127.0.0.1:56628 Transfer_Time: 34.266µs 
+2024/03/18 13:16:24 download 1.txt
+2024/03/18 13:16:24 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:16:24 Client connected: 127.0.0.1:56638
+2024/03/18 13:16:24 Bytes: 32000 Client: 127.0.0.1:56638 Transfer_Time: 50.816µs Filename: 1.txt
+2024/03/18 13:16:24 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:16:24 Downloaded 1.txt in 0.00 seconds.
+2024/03/18 13:16:24 
+Summary series:
+2024/03/18 13:16:24 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:16:24 Total Download Time: 0.00 seconds
+2024/03/18 13:16:56 unregister 127.0.0.1:8001
+2024/03/18 13:16:56 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 Decoded Configuration:
+2024/03/18 13:17:04 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:17:04 Decoded Configuration:
+2024/03/18 13:17:04 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:17:04 Server listening on port 8001
+2024/03/18 13:17:04 register 127.0.0.1 8001
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:04 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:17:04 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:17:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:15 query 0 0 shared_dir/1.txt
+2024/03/18 13:17:15 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:15 md5 1.txt
+2024/03/18 13:17:15 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:17:15 Client connected: 127.0.0.1:46422
+2024/03/18 13:17:15 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:17:15 Bytes: 32 Client: 127.0.0.1:46422 Transfer_Time: 117.346µs 
+2024/03/18 13:17:15 download 1.txt
+2024/03/18 13:17:15 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:17:15 Client connected: 127.0.0.1:46424
+2024/03/18 13:17:15 Bytes: 32000 Client: 127.0.0.1:46424 Transfer_Time: 93.12µs Filename: 1.txt
+2024/03/18 13:17:15 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:17:15 Downloaded 1.txt in 0.01 seconds.
+2024/03/18 13:17:15 
+Summary series:
+2024/03/18 13:17:15 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:17:15 Total Download Time: 0.01 seconds
+2024/03/18 13:17:17 unregister 127.0.0.1:8001
+2024/03/18 13:17:17 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 Decoded Configuration:
+2024/03/18 13:17:52 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:17:52 Decoded Configuration:
+2024/03/18 13:17:52 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 13:17:52 Server listening on port 8001
+2024/03/18 13:17:52 register 127.0.0.1 8001
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:17:52 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 13:17:52 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 13:17:52 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:18:02 query 0 0 shared_dir/1.txt
+2024/03/18 13:18:02 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:18:09 md5 1.txt
+2024/03/18 13:18:09 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:09 Client connected: 127.0.0.1:54424
+2024/03/18 13:18:09 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:18:09 Bytes: 32 Client: 127.0.0.1:54424 Transfer_Time: 102.778µs 
+2024/03/18 13:18:09 download 1.txt
+2024/03/18 13:18:09 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:09 Client connected: 127.0.0.1:54434
+2024/03/18 13:18:09 Bytes: 32000 Client: 127.0.0.1:54434 Transfer_Time: 108.127µs Filename: 1.txt
+2024/03/18 13:18:09 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:18:09 Downloaded 1.txt in 6.41 seconds.
+2024/03/18 13:18:09 
+Summary series:
+2024/03/18 13:18:09 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:18:09 Total Download Time: 6.41 seconds
+2024/03/18 13:18:13 query 0 0 shared_dir/1.txt
+2024/03/18 13:18:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:18:13 md5 1.txt
+2024/03/18 13:18:13 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:13 Client connected: 127.0.0.1:55606
+2024/03/18 13:18:13 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:18:13 Bytes: 32 Client: 127.0.0.1:55606 Transfer_Time: 82.987µs 
+2024/03/18 13:18:13 download 1.txt
+2024/03/18 13:18:13 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:13 Client connected: 127.0.0.1:55616
+2024/03/18 13:18:13 Bytes: 32000 Client: 127.0.0.1:55616 Transfer_Time: 74.215µs Filename: 1.txt
+2024/03/18 13:18:13 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:18:13 Downloaded 1.txt in 0.00 seconds.
+2024/03/18 13:18:13 
+Summary series:
+2024/03/18 13:18:13 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:18:13 Total Download Time: 0.00 seconds
+2024/03/18 13:18:21 query 0 0 shared_dir/1.txt
+2024/03/18 13:18:21 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 13:18:26 md5 1.txt
+2024/03/18 13:18:26 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:26 Client connected: 127.0.0.1:45236
+2024/03/18 13:18:26 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 13:18:26 Bytes: 32 Client: 127.0.0.1:45236 Transfer_Time: 95.398µs 
+2024/03/18 13:18:26 download 1.txt
+2024/03/18 13:18:26 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 13:18:26 Client connected: 127.0.0.1:45246
+2024/03/18 13:18:26 Bytes: 32000 Client: 127.0.0.1:45246 Transfer_Time: 68.975µs Filename: 1.txt
+2024/03/18 13:18:26 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 13:18:26 Downloaded 1.txt in 4.94 seconds.
+2024/03/18 13:18:26 
+Summary series:
+2024/03/18 13:18:26 Downloaded Files: shared_dir/1.txt
+2024/03/18 13:18:26 Total Download Time: 4.94 seconds
+2024/03/18 13:20:03 unregister 127.0.0.1:8001
+2024/03/18 13:20:03 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 Decoded Configuration:
+2024/03/18 21:21:55 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 21:21:55 Decoded Configuration:
+2024/03/18 21:21:55 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/18 21:21:55 Server listening on port 8001
+2024/03/18 21:21:55 register 127.0.0.1 8001
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/9.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/9.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/1.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/1.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/5.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/5.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/6.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/6.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/7.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/7.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/8.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/8.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/10.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/10.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/2.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/2.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/3.txt (Size: 32000 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/3.txt 32000
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:55 File added: shared_dir/test.txt (Size: 7 bytes)
+2024/03/18 21:21:55 add 127.0.0.1:8001 shared_dir/test.txt 7
+2024/03/18 21:21:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:21:59 state
+2024/03/18 21:21:59 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:22:19 query 0 0 shared_dir/6.txt
+2024/03/18 21:22:19 
+ Connecting to: 127.0.0.1:8000 
+2024/03/18 21:22:19 md5 6.txt
+2024/03/18 21:22:19 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 21:22:19 Client connected: 127.0.0.1:48414
+2024/03/18 21:22:19 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/18 21:22:19 Bytes: 32 Client: 127.0.0.1:48414 Transfer_Time: 113.158µs 
+2024/03/18 21:22:19 download 6.txt
+2024/03/18 21:22:19 
+ Connecting to: 127.0.0.1:8001 
+2024/03/18 21:22:19 Client connected: 127.0.0.1:48430
+2024/03/18 21:22:19 Bytes: 32000 Client: 127.0.0.1:48430 Transfer_Time: 127.733µs Filename: 6.txt
+2024/03/18 21:22:19 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/18 21:22:19 Downloaded 6.txt in 0.18 seconds.
+2024/03/18 21:22:19 
+Summary series:
+2024/03/18 21:22:19 Downloaded Files: shared_dir/6.txt
+2024/03/18 21:22:19 Total Download Time: 0.18 seconds
+2024/03/18 21:51:07 unregister 127.0.0.1:8001
+2024/03/18 21:51:07 
+ Connecting to: 127.0.0.1:8000 

@@ -1,0 +1,721 @@
+2024/03/24 16:57:55 Decoded Configuration:
+2024/03/24 16:57:55 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 16:57:55 Decoded Configuration:
+2024/03/24 16:57:55 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 16:57:55 Server listening on port 8001
+2024/03/24 16:57:55 register 127.0.0.1 8001
+2024/03/24 16:57:55 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 16:58:02 Got interrupt signal. Aborting...
+2024/03/24 16:58:02 unregister 127.0.0.1:8001
+2024/03/24 16:58:02 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 16:58:04 Decoded Configuration:
+2024/03/24 16:58:04 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 16:58:04 Decoded Configuration:
+2024/03/24 16:58:04 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 16:58:04 Server listening on port 8001
+2024/03/24 16:58:04 register 127.0.0.1 8001
+2024/03/24 16:58:04 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 16:58:07 Got interrupt signal. Aborting...
+2024/03/24 16:58:07 unregister 127.0.0.1:8001
+2024/03/24 16:58:07 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:06:30 Decoded Configuration:
+2024/03/24 17:06:30 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:06:30 Decoded Configuration:
+2024/03/24 17:06:30 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:06:30 Server listening on port 8001
+2024/03/24 17:06:30 register 127.0.0.1 8001
+2024/03/24 17:06:30 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:09:58 File added: shared_dir/pepe.txt (Size: 38 bytes)
+2024/03/24 17:09:58 add 127.0.0.1:8001 shared_dir/pepe.txt 38
+2024/03/24 17:09:58 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:10:19 Got interrupt signal. Aborting...
+2024/03/24 17:10:19 unregister 127.0.0.1:8001
+2024/03/24 17:10:19 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:19:00 Decoded Configuration:
+2024/03/24 17:19:00 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:19:00 Decoded Configuration:
+2024/03/24 17:19:00 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:19:00 Server listening on port 8001
+2024/03/24 17:19:00 register 127.0.0.1 8001
+2024/03/24 17:19:00 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:19:00 File added: shared_dir/pepe.txt (Size: 38 bytes)
+2024/03/24 17:19:00 add 127.0.0.1:8001 shared_dir/pepe.txt 38
+2024/03/24 17:19:00 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:20:22 Got interrupt signal. Aborting...
+2024/03/24 17:20:22 unregister 127.0.0.1:8001
+2024/03/24 17:20:22 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:20:27 Decoded Configuration:
+2024/03/24 17:20:27 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:20:27 Decoded Configuration:
+2024/03/24 17:20:27 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:20:27 Server listening on port 8001
+2024/03/24 17:20:27 register 127.0.0.1 8001
+2024/03/24 17:20:27 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:20:27 File added: shared_dir/pepe.txt (Size: 38 bytes)
+2024/03/24 17:20:27 add 127.0.0.1:8001 shared_dir/pepe.txt 38
+2024/03/24 17:20:27 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:31:39 Got interrupt signal. Aborting...
+2024/03/24 17:31:39 unregister 127.0.0.1:8001
+2024/03/24 17:31:39 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:39:49 Decoded Configuration:
+2024/03/24 17:39:49 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:39:49 Decoded Configuration:
+2024/03/24 17:39:49 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:39:49 Server listening on port 8001
+2024/03/24 17:39:49 register 127.0.0.1 8001
+2024/03/24 17:39:49 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:39:49 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:39:49 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:39:49 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:41:00 Got interrupt signal. Aborting...
+2024/03/24 17:41:00 unregister 127.0.0.1:8001
+2024/03/24 17:41:00 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:41:00 Decoded Configuration:
+2024/03/24 17:41:00 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:41:00 Decoded Configuration:
+2024/03/24 17:41:00 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:41:00 Server listening on port 8001
+2024/03/24 17:41:00 register 127.0.0.1 8001
+2024/03/24 17:41:00 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:41:00 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:41:00 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:41:00 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:46:04 Got interrupt signal. Aborting...
+2024/03/24 17:46:04 unregister 127.0.0.1:8001
+2024/03/24 17:46:04 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:46:10 Decoded Configuration:
+2024/03/24 17:46:10 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:46:10 Decoded Configuration:
+2024/03/24 17:46:10 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:46:10 Server listening on port 8001
+2024/03/24 17:46:10 register 127.0.0.1 8001
+2024/03/24 17:46:10 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:46:10 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:46:10 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:46:10 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:47:15 Got interrupt signal. Aborting...
+2024/03/24 17:47:15 unregister 127.0.0.1:8001
+2024/03/24 17:47:15 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:48:41 Decoded Configuration:
+2024/03/24 17:48:41 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:48:41 Decoded Configuration:
+2024/03/24 17:48:41 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:48:41 Server listening on port 8001
+2024/03/24 17:48:41 register 127.0.0.1 8001
+2024/03/24 17:48:41 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:48:41 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:48:41 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:48:41 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:57:57 Decoded Configuration:
+2024/03/24 17:57:57 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:57:57 Decoded Configuration:
+2024/03/24 17:57:57 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:57:57 Server listening on port 8001
+2024/03/24 17:57:57 register 127.0.0.1 8001
+2024/03/24 17:57:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:57:57 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:57:57 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:57:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:26 Got interrupt signal. Aborting...
+2024/03/24 17:58:26 unregister 127.0.0.1:8001
+2024/03/24 17:58:26 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:27 Decoded Configuration:
+2024/03/24 17:58:27 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:58:27 Decoded Configuration:
+2024/03/24 17:58:27 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:58:27 Server listening on port 8001
+2024/03/24 17:58:27 register 127.0.0.1 8001
+2024/03/24 17:58:27 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:27 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:58:27 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:58:27 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:30 Got interrupt signal. Aborting...
+2024/03/24 17:58:30 unregister 127.0.0.1:8001
+2024/03/24 17:58:30 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:40 Decoded Configuration:
+2024/03/24 17:58:40 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:58:40 Decoded Configuration:
+2024/03/24 17:58:40 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:58:40 Server listening on port 8001
+2024/03/24 17:58:40 register 127.0.0.1 8001
+2024/03/24 17:58:40 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:58:40 File added: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:58:40 add 127.0.0.1:8001 shared_dir/pepe.txt 20534
+2024/03/24 17:58:40 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:59:41 File deleted: shared_dir/pepe.txt (Size: 20534 bytes)
+2024/03/24 17:59:41 rm 127.0.0.1:8001 shared_dir/pepe.txt
+2024/03/24 17:59:41 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:59:41 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 17:59:41 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 17:59:41 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:59:56 Got interrupt signal. Aborting...
+2024/03/24 17:59:56 unregister 127.0.0.1:8001
+2024/03/24 17:59:56 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:59:57 Decoded Configuration:
+2024/03/24 17:59:57 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:59:57 Decoded Configuration:
+2024/03/24 17:59:57 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 17:59:57 Server listening on port 8001
+2024/03/24 17:59:57 register 127.0.0.1 8001
+2024/03/24 17:59:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 17:59:57 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 17:59:57 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 17:59:57 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:11:33 Got interrupt signal. Aborting...
+2024/03/24 18:11:33 unregister 127.0.0.1:8001
+2024/03/24 18:11:33 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:11:37 Decoded Configuration:
+2024/03/24 18:11:37 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:11:37 Decoded Configuration:
+2024/03/24 18:11:37 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:11:37 Error listening:%!(EXTRA *net.OpError=listen tcp :8001: bind: address already in use)
+2024/03/24 18:12:03 Decoded Configuration:
+2024/03/24 18:12:03 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:12:03 Decoded Configuration:
+2024/03/24 18:12:03 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:12:03 Error listening:%!(EXTRA *net.OpError=listen tcp :8001: bind: address already in use)
+2024/03/24 18:22:12 Decoded Configuration:
+2024/03/24 18:22:12 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:22:12 Decoded Configuration:
+2024/03/24 18:22:12 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:22:12 Error listening:%!(EXTRA *net.OpError=listen tcp :8001: bind: address already in use)
+2024/03/24 18:22:16 Decoded Configuration:
+2024/03/24 18:22:16 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:22:16 Decoded Configuration:
+2024/03/24 18:22:16 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:22:16 Server listening on port 8001
+2024/03/24 18:22:16 register 127.0.0.1 8001
+2024/03/24 18:22:16 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:22:16 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 18:22:16 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 18:22:16 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:31:13 Got interrupt signal. Aborting...
+2024/03/24 18:31:13 unregister 127.0.0.1:8001
+2024/03/24 18:31:13 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:31:16 Decoded Configuration:
+2024/03/24 18:31:16 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:31:16 Decoded Configuration:
+2024/03/24 18:31:16 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:31:16 Error listening:%!(EXTRA *net.OpError=listen tcp :8001: bind: address already in use)
+2024/03/24 18:50:24 Decoded Configuration:
+2024/03/24 18:50:24 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:50:24 Decoded Configuration:
+2024/03/24 18:50:24 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:50:24 Server listening on port 8001
+2024/03/24 18:50:24 register 127.0.0.1 8001
+2024/03/24 18:50:24 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:50:24 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 18:50:24 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 18:50:24 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:50:34 Got interrupt signal. Aborting...
+2024/03/24 18:50:34 unregister 127.0.0.1:8001
+2024/03/24 18:50:34 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:50:42 Decoded Configuration:
+2024/03/24 18:50:42 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:50:42 Decoded Configuration:
+2024/03/24 18:50:42 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:50:42 Server listening on port 8001
+2024/03/24 18:50:42 register 127.0.0.1 8001
+2024/03/24 18:50:42 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:50:42 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 18:50:42 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 18:50:42 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:51:01 Got interrupt signal. Aborting...
+2024/03/24 18:51:01 unregister 127.0.0.1:8001
+2024/03/24 18:51:01 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:54:54 Decoded Configuration:
+2024/03/24 18:54:54 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:54:54 Decoded Configuration:
+2024/03/24 18:54:54 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/24 18:54:54 Server listening on port 8001
+2024/03/24 18:54:54 register 127.0.0.1 8001
+2024/03/24 18:54:54 
+ Connecting to: 127.0.0.1:9000 
+2024/03/24 18:54:54 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/24 18:54:54 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/24 18:54:54 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:38:34 Got interrupt signal. Aborting...
+2024/03/25 08:38:34 unregister 127.0.0.1:8001
+2024/03/25 08:38:34 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:21 Decoded Configuration:
+2024/03/25 08:40:21 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:21 Decoded Configuration:
+2024/03/25 08:40:21 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:21 Error listening:%!(EXTRA *net.OpError=listen tcp :8001: bind: address already in use)
+2024/03/25 08:40:34 Decoded Configuration:
+2024/03/25 08:40:34 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:34 Decoded Configuration:
+2024/03/25 08:40:34 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:34 Server listening on port 8001
+2024/03/25 08:40:34 register 127.0.0.1 8001
+2024/03/25 08:40:34 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:34 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/25 08:40:34 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/25 08:40:34 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:35 Got interrupt signal. Aborting...
+2024/03/25 08:40:35 unregister 127.0.0.1:8001
+2024/03/25 08:40:35 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:49 Decoded Configuration:
+2024/03/25 08:40:49 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:49 Decoded Configuration:
+2024/03/25 08:40:49 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 08:40:49 Server listening on port 8001
+2024/03/25 08:40:49 register 127.0.0.1 8001
+2024/03/25 08:40:49 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:49 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/25 08:40:49 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/25 08:40:49 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 08:40:54 Got interrupt signal. Aborting...
+2024/03/25 08:40:54 unregister 127.0.0.1:8001
+2024/03/25 08:40:54 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:32:22 Decoded Configuration:
+2024/03/25 21:32:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 21:32:22 Decoded Configuration:
+2024/03/25 21:32:22 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 21:32:22 Server listening on port 8001
+2024/03/25 21:32:22 register 127.0.0.1 8001
+2024/03/25 21:32:22 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:32:22 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/25 21:32:22 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/25 21:32:22 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:32:23 Got interrupt signal. Aborting...
+2024/03/25 21:32:23 unregister 127.0.0.1:8001
+2024/03/25 21:32:23 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:32:23 Decoded Configuration:
+2024/03/25 21:32:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 21:32:23 Decoded Configuration:
+2024/03/25 21:32:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000,
+    "download_dir": ""
+}
+2024/03/25 21:32:23 Server listening on port 8001
+2024/03/25 21:32:23 register 127.0.0.1 8001
+2024/03/25 21:32:23 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:32:23 File added: shared_dir/pepeNites.txt (Size: 20534 bytes)
+2024/03/25 21:32:23 add 127.0.0.1:8001 shared_dir/pepeNites.txt 20534
+2024/03/25 21:32:23 
+ Connecting to: 127.0.0.1:9000 
+2024/03/25 21:41:51 Got interrupt signal. Aborting...
+2024/03/25 21:41:51 unregister 127.0.0.1:8001
+2024/03/25 21:41:51 
+ Connecting to: 127.0.0.1:9000 

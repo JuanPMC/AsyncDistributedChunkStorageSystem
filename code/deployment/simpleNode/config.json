@@ -1,0 +1,7 @@
+{
+    "hostname":  "127.0.0.1",
+    "port": 8081,
+    "watchpath":"./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 9000
+}
